@@ -1,0 +1,3 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+El vínculo clave es que el éxito de todos ellos depende de una gestión ordenada y sistemática. Sin un orden de pasos, la información se convierte en noticias falsas, la participación ciudadana se vuelve caótica y el trabajo técnico en Git sufre pérdidas de datos. Por lo tanto, seguir un proceso estructurado es lo que garantiza un impacto beneficioso, transparente y sostenible para la sociedad y los equipos de trabajo. 

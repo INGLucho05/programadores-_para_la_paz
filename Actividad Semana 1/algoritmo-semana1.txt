@@ -1,0 +1,10 @@
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+Cómo compartir información confiable en internet.
+
+Algoritmo.
+1 - Buscar la información en internet.
+2 - Revisar si la fuente es confiable.
+3 - Confirmar la noticia en otras páginas web.
+4 - Verificar la fecha de publicación de la información.
+5 - Leer completamente el contenido antes de compartirlo.
+6 - Compartir la información solo si es verdadera y segura.
