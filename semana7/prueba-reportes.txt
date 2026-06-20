@@ -1,0 +1,29 @@
+Resultados de la prueba de rutas para /reportes:
+
+1. Petición POST a http://localhost:3000/reportes:
+   Se envió un objeto JSON con las propiedades "tipo" y "descripcion". 
+   El servidor recibió exitosamente los datos y creó un nuevo registro.
+
+2. Petición GET a http://localhost:3000/reportes:
+   Al consultar esta ruta, el servidor responde con un estado 200 OK y devuelve un arreglo JSON que contiene el reporte previamente registrado. 
+   Esto confirma que los datos se están almacenando y recuperando correctamente en el backend.
+
+Ejemplo de la respuesta obtenida:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Ejemplo de segundo POST
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+}

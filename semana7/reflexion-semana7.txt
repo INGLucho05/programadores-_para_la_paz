@@ -1,0 +1,20 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+
+La importancia de este tipo de plataformas se puede resumir en tres grandes pilares:
+
+1. Centralización y Orden 
+Antes de la tecnología, si un ciudadano quería reportar un poste de luz roto, tenía que llamar por teléfono, ir a una oficina física o enviar un correo que terminaba perdido.
+Con la plataforma todo llega al mismo lugar. El beneficio de que se genere un "id": 1 automáticamente es que ese reporte ahora tiene un "número de seguimiento". Ya no es un reclamo anónimo; es un caso registrado con datos específicos (tipo y descripcion).
+
+Transparencia y Confianza Colectiva
+Aquí es donde la ruta GET se vuelve fundamental. Al permitir que la comunidad consulte los reportes, la plataforma se vuelve transparente:
+Evita reportes duplicados: Si tú ves que el vecino ya reportó el bache de la esquina principal (y lo puedes ver con un GET /reportes).
+
+Auditoría ciudadana: La comunidad puede ver qué problemas hay, cuántos se han acumulado y, eventualmente, presionar de forma organizada si ven que ciertos reportes llevan mucho tiempo sin resolverse.
+
+Decisiones Basadas en Datos (Para los administradores)
+Para las autoridades o administradores de la plataforma, este registro de datos vale oro. En lugar de adivinar qué necesita la comunidad, pueden analizar la base de datos:
+Si al hacer un GET el sistema devuelve 100 reportes de "tipo": "Infraestructura" y solo 2 de "tipo": "Seguridad", los administradores saben exactamente dónde tienen que invertir el presupuesto y enviar las cuadrillas de mantenimiento esa semana.
+
+
