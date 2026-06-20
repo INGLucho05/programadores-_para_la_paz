@@ -1,0 +1,12 @@
+Qué ocurre cuando ejecutas node server.js.
+
+Se inicializa un entorno de ejecucion Node.js
+
+Qué mensaje aparece en la terminal.
+➜  semana9 git:(main) ✗ node server.js
+Servidor ejecutándose en puerto 3000
+
+Qué sucede cuando visitas la ruta /estado.
+{"estado":"Servidor funcionando","servicio":"API comunitaria"
+
+Indica que el entorno esta activa y la API comunitaria funciona correctamente.

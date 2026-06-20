@@ -1,0 +1,16 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo
+Es el software principal que administra todo el hardware y los recursos de una computadora, actuando como intermediario entre los componentes físicos y los programas del usuario.
+
+Node.js
+Es un entorno de ejecución para JavaScript que permite utilizar este lenguaje de programación fuera del navegador web, principalmente en el lado del servidor (backend). Está construido sobre el motor V8 de Google Chrome, lo que le otorga una alta velocidad y una gran eficiencia para procesar datos en tiempo real.
+
+Aplicación server.js
+Es el archivo principal de código fuente que actúa como el "cerebro" o punto de entrada de tu servidor web en un proyecto de Node.js. En este archivo se configuran las rutas de la API (como los métodos GET y POST que probaste), se maneja la lógica de negocio y se establece la conexión con la base de datos.
+
+Puerto
+Es un punto final de comunicación o una "puerta de enlace" virtual dentro de un sistema operativo que permite identificar un canal específico para el tráfico de red. Se representa mediante un número (como el 3000 en tu dirección de desarrollo local) para asegurar que los datos que viajan por internet lleguen exactamente a la aplicación correcta y no a otra.
+
+Logs
+Son registros históricos en forma de texto que un sistema operativo o una aplicación genera automáticamente para documentar los eventos y actividades que ocurren durante su funcionamiento. Funcionan como una bitácora digital donde se guardan detalles como la hora exacta de una petición, los errores que provocaron una caída del sistema o confirmaciones de que los datos se registraron con éxito.

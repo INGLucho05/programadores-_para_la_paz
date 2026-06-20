@@ -1,0 +1,3 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+
+La estabilidad y seguridad de una plataforma comunitaria en un servidor son cruciales porque garantizan la disponibilidad ininterrumpida de los servicios esenciales para los ciudadanos. Cuando un servidor es estable, se evita que la aplicación sufra caídas constantes, permitiendo que los vecinos registren incidentes o consulten información en tiempo real sin experimentar frustrantes errores de conexión. Por otro lado, la seguridad en el servidor blinda la base de datos contra accesos no autorizados, protegiendo la privacidad y la identidad de los usuarios frente a posibles filtraciones de datos sensibles.
