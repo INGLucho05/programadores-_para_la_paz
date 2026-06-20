@@ -1,0 +1,10 @@
+BUENAS PRACTICAS
+
+1. Habilitar la Autenticación de Dos Factores (2FA):
+Añade una capa adicional de protección al requerir no solo la contraseña, sino también un código dinámico temporal (enviado al celular o mediante una app de autenticación) antes de permitir el acceso al sistema. Esto evita accesos no autorizados incluso si la contraseña es expuesta.
+
+2. Verificar la Autenticidad de los Enlaces y Remitentes (Evitar Phishing):
+ No hacer clic en enlaces sospechosos ni descargar archivos adjuntos de correos electrónicos o mensajes desconocidos. Los atacantes suelen suplantar la identidad de plataformas oficiales para robar credenciales de acceso o infectar el sistema con malware.
+
+3. Realizar Copias de Seguridad (Backups) Periódicas:
+Guardar respaldos de la base de datos y del código del sistema en un almacenamiento externo seguro o en la nube de forma regular. Esto garantiza la recuperación de los reportes de la comunidad en caso de fallos técnicos, ataques de ransomware o pérdida accidental de información.

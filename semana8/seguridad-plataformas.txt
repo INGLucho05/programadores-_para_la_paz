@@ -1,0 +1,5 @@
+1. Validación y Sanitización de Datos (Prevenir Inyecciones SQL o XSS)
+2. Implementación de Roles y Permisos Estrictos (RBAC)
+3. Cifrado de Datos en Reposo (Database Encryption)
+4. Establecer Tasas Límite de Peticiones (Rate Limiting)
+5. Plan de Respuesta a Incidentes y Copias de Seguridad Automatizadas

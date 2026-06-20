@@ -1,0 +1,7 @@
+zeta@fedora:~/Documentos/VScode/Restaurante$ uname -a
+Linux fedora 6.19.10-300.fc44.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Mar 25 18:23:49 UTC 2026 x86_64 GNU/Linux
+
+Este comando muestra la version del sistema operativo nivel de release de sistema operativo, así como datos de implementación de hardware del sistema.
+zeta@fedora:~/Documentos/VScode/Restaurante$ whoami
+zeta
+Sirve para identificar el nombre de la cuenta de usuario con la que has iniciado sesión y estás ejecutando la terminal en ese momento
