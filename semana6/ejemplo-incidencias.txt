@@ -1,0 +1,10 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+} 
+
+la resouesta en el servidor al haber recibido una un reporte de una incidencia por parte de un ciudadano es:
+
+{
+  "estado": "Datos recibidos"
+}

@@ -1,0 +1,12 @@
+Explicación de la respuesta del servidor:
+
+Al enviar la petición POST a la ruta /registro con los datos de María, el servidor respondió correctamente con un estado HTTP 200. El servidor procesó el JSON enviado y devolvió un objeto de confirmación que valida que los datos fueron recibidos con éxito.
+
+Respuesta del servidor:
+
+JSON
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

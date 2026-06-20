@@ -1,0 +1,5 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+
+Porque Permite procesar los reportes automáticamente mediante algoritmos, agilizando el tiempo de respuesta, facilitando la clasificación, el filtrado y la priorización de los problemas según su urgencia. Lo cual conlleva a evitar errores de interpretación o datos incompletos al estandarizar la información recibida.
+Hace posible almacenar los datos limpiamente para generar estadísticas y mapas de calor.
+Ayuda a derivar el caso directamente al departamento o autoridad responsable sin intermediarios.
