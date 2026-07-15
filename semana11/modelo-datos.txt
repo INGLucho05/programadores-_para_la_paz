@@ -1,0 +1,25 @@
+
+Pregunta 7 — Diseñar modelo de datos simple
+
+Entidad: Evento
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la informacion de actividades (eventos) que se realizaran en la comunidad
+
+
+Entidad: Notificacion
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Propósito:
+Notificar a todos los ususarios de que hay un nuevo anuncio imporatnte.

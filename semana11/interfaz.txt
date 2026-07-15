@@ -1,0 +1,18 @@
+Pregunta 9 
+
+
+Formulario para crear una causa.
+Botón para apoyar una causa.
+Contador de apoyos.
+
+Vista de causas disponibles.
+
+Interface para sitio comunitario informativo de Juntas de accion comunal.
+
+La interfaz tendría una sección para crear un nuevo anuncio (publicacion) comunitaria con título, descripción y fecha.
+
+También tendría una campanita de notificaciones para que a los uauarios se les notifique cuando hay una nuevas publicaciones y puedan leerlas.
+
+cada publicacion tendria un boton que muestre cuantas personas la han visto y que reaacion dejaron .
+
+La interfaz debe ser clara, sencilla y no debe mostrar información privada de los usuarios.
