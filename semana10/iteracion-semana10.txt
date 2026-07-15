@@ -1,0 +1,19 @@
+¿Qué 2 tareas del backlog harías primero?
+
+La tarea que deberia realizar primero seria la de el panel para realizar las publicaciones de los eventos.
+
+como segunda tarea la de notificar a los miembros a travez de telegram de que se ralizo un nuevo uan publicacion.
+
+¿Por qué son las más importantes?
+
+considero que son los mas importantes ya que estos son los que van a  mantener un lujo de noticias informativas para la comunidad.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+cuando una atarea esta terminada signiific aque zatisafacio los requerimeintos que exigia
+
+Escribe una definición simple de terminado con al menos 3 criterios. 
+
+Funciona.
+Fue probada.
+Quedó registrada en Git.

@@ -1,0 +1,7 @@
+Evento: nueva publicacion registrado.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Se ha hecho un apublicacion Nueva”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.

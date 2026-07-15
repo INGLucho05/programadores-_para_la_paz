@@ -1,0 +1,14 @@
+
+1. Como miembro de la junta de accion comunal quiero tener un panel para hacer publicaciones de eventos.
+
+2. Como presidente del la junta quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+3. Como usuario quiero consultar los proyectos o noticias de mejoramiento de la comunidad.
+
+4. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+5. Como miembro de la comunidad quiero recibir notificaciones de las publicaciones nuevas.
+
+
+
+
