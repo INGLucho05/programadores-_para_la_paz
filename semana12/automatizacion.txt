@@ -1,0 +1,11 @@
+Pregunta 9 — Describir automatización
+
+Debe incluir:
+
+Qué evento activa la automatización.
+Qué mensaje se envía.
+Qué información no debe enviarse por seguridad.
+
+Evento: nueva causa registrada
+Mensaje(Notificacion): “Nueva Pulicacion realizada”
+Información que no debe enviarse direcciones, comentarios sensibles o datos personales.

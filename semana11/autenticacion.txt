@@ -10,5 +10,5 @@ Porque son rutas que conmpromenten informacion sencible del codigo o en su defec
 
 ¿Qué tipo de información no debería exponerse públicamente?
 
-os Id, los numeros de dentificacion numero de tarjetas bancarias y contrasenas.
+Los Id, los numeros de dentificacion, numero de tarjetas bancarias y contrasenas.
 

@@ -1,0 +1,13 @@
+Pregunta 8 — Diseñar modelo de datos simple
+
+Causa
+id ( es el identificado runico de la peticion)
+titulo (el nombre que se le asigno a la causa)
+descripcion (describe que se solicita)
+fecha (registro de la fecha de en que se hizo la peticion)
+
+Apoyo
+id
+causa_id
+nombre
+fecha

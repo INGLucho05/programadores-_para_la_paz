@@ -1,0 +1,7 @@
+Pregunta 7 — Describir el flujo del sistema
+
+1- Un ciudadano crea una causa(evento).
+2 -La causa queda registrada en la base de datos(se le asigna un ID).
+3- Otros ciudadanos pueden apoyar la causa.
+4 -El sistema cuenta los apoyos.
+5 -El sistema genera un documento PDF con la petición.
